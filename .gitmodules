@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "kofdata"]
 	path = kofdata
 	url = https://github.com/kof-ch/kofdata
-	shallow = true
-	registered = true
 [submodule "tstools"]
 	path = tstools
 	url = https://github.com/kof-ch/tstools
-	shallow = true
-	registered = true
